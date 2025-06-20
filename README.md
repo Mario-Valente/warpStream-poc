@@ -84,9 +84,3 @@ Ambas as aplicações usam variáveis de ambiente para configuração do tópico
 - [Kind](https://kind.sigs.k8s.io/)
 - [Helm](https://helm.sh/)
 - [Terraform AWS Provider](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)
-
----
-```
-
-
-
